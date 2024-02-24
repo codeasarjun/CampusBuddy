@@ -24,9 +24,9 @@ JSON (JavaScript Object Notation) 🗃️<br>
 JSON serves as the data storage format for CollegeMate. It efficiently organizes college information in a structured manner, making it easy for the chatbot to access and retrieve relevant data in response to user queries.
 
 # Getting Started
-To run CollegeMate locally, follow these steps:
+To run CampusBuddy locally, follow these steps:
 
-Clone this repository to your local machine.
-Install the required dependencies by running pip install.
-Run the Flask application using python app.py.
-Access CollegeMate through your web browser at http://localhost.
+Clone this repository to your local machine.<br>
+Install the required dependencies by running pip install.<br>
+Run the Flask application using python app.py.<br>
+Access CollegeMate through your web browser at http://localhost.<br>
