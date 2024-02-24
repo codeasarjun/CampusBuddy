@@ -1,4 +1,4 @@
-# CollegeMate 🎓
+# CampusBuddy 🎓
 
 Welcome to CollegeMate, your friendly chatbot designed to assist with common student queries related to college information! Whether you're seeking information about courses, admission procedures, campus facilities, or anything else related to college life, CollegeMate is here to help you out.
 
