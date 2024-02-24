@@ -30,3 +30,6 @@ Clone this repository to your local machine.<br>
 Install the required dependencies by running pip install.<br>
 Run the Flask application using python app.py.<br>
 Access CollegeMate through your web browser at http://localhost.<br>
+
+
+<img src="https://github.com/codeasarjun/CampusBuddy/blob/main/img/output.png">
