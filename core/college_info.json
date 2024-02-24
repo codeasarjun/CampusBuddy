@@ -1,0 +1,35 @@
+{
+  "name": "ABC College",
+  "location": "123 College Ave, City, State, Country",
+  "website": "https://www.abccollege.edu",
+  "contact": {
+    "phone": "+1234567890",
+    "email": "info@abccollege.edu"
+  },
+  "fees": {
+    "tuition": "Please visit our website or contact the administration office for tuition fees.",
+    "accommodation": "Accommodation fees vary based on room type. Please contact our housing office for details."
+  },
+  "placement": {
+    "services": "Our placement cell offers career counseling, resume assistance, and job placement support.",
+    "top_recruiters": ["Company A", "Company B", "Company C"]
+  },
+  "programs": [
+    {
+      "name": "Computer Science",
+      "degree": "Bachelor's",
+      "duration": "4 years"
+    },
+    {
+      "name": "Business Administration",
+      "degree": "Master's",
+      "duration": "2 years"
+    }
+  ],
+  "facilities": [
+    "Library",
+    "Computer Lab",
+    "Sports Complex",
+    "Cafeteria"
+  ]
+}
